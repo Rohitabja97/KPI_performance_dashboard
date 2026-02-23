@@ -8,6 +8,10 @@ The dashboard provides a high-level summary of key performance indicators along 
 
 ---
 
+## 📷 Dashboard Preview
+
+![KPI Dashboard](KPI%20Performance.png)
+
 ## 🎯 Business Objective
 
 The primary objective of this dashboard is to:
@@ -94,12 +98,6 @@ These filters allow dynamic exploration of business performance.
 - Tableau (Data Visualization & Dashboarding)
 - Excel / CSV Dataset (Data Source)
 - Data Cleaning & Preparation
-
----
-
-## 📷 Dashboard Preview
-
-![KPI Dashboard](KPI%20Performance.png)
 
 ---
 
